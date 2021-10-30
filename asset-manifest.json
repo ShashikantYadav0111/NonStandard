@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NonStandard/static/css/main.d9688909.chunk.css",
+    "main.js": "/NonStandard/static/js/main.a03685a9.chunk.js",
+    "main.js.map": "/NonStandard/static/js/main.a03685a9.chunk.js.map",
+    "runtime-main.js": "/NonStandard/static/js/runtime-main.4b93e033.js",
+    "runtime-main.js.map": "/NonStandard/static/js/runtime-main.4b93e033.js.map",
+    "static/js/2.b421e1fa.chunk.js": "/NonStandard/static/js/2.b421e1fa.chunk.js",
+    "static/js/2.b421e1fa.chunk.js.map": "/NonStandard/static/js/2.b421e1fa.chunk.js.map",
+    "index.html": "/NonStandard/index.html",
+    "static/css/main.d9688909.chunk.css.map": "/NonStandard/static/css/main.d9688909.chunk.css.map",
+    "static/js/2.b421e1fa.chunk.js.LICENSE.txt": "/NonStandard/static/js/2.b421e1fa.chunk.js.LICENSE.txt",
+    "static/media/benimaru.6f463e2d.jpg": "/NonStandard/static/media/benimaru.6f463e2d.jpg",
+    "static/media/diablo.ef560746.jpg": "/NonStandard/static/media/diablo.ef560746.jpg",
+    "static/media/gojo2.010fb8cd.jpg": "/NonStandard/static/media/gojo2.010fb8cd.jpg",
+    "static/media/kakashi.66d67094.jpg": "/NonStandard/static/media/kakashi.66d67094.jpg",
+    "static/media/karma.3472ef8d.jpg": "/NonStandard/static/media/karma.3472ef8d.jpg",
+    "static/media/reigen.ea2b9252.jpg": "/NonStandard/static/media/reigen.ea2b9252.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b93e033.js",
+    "static/js/2.b421e1fa.chunk.js",
+    "static/css/main.d9688909.chunk.css",
+    "static/js/main.a03685a9.chunk.js"
+  ]
+}
