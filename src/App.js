@@ -21,7 +21,7 @@ function App() {
 
               <Card title="Diablo" animename='That time i got reincarnated as a slime' charimg={Diablo} quote='i have been away from living world too long,I shall enjoy my time time here to the fullest' />
 
-              <Card title="Beniamru Shinemon" animename='fire Force' charimg={Benimaru} quote='Anger begets anger.If you turn your bloodlust on someone,that bloodlust is guaranteed to come right back at you.' />
+              <Card title="Benimaru Shinemon" animename='fire Force' charimg={Benimaru} quote='Anger begets anger.If you turn your bloodlust on someone,that bloodlust is guaranteed to come right back at you.' />
           </div>
           <br/>
           <div className='row'>
