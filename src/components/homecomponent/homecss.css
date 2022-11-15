@@ -1,0 +1,95 @@
+.outercontainer{
+    /* border: 5px solid black; */
+    display: flex;
+    flex-flow: column;
+    width: 70%;
+    height: 70%;
+
+}
+.data-container{
+    border: 5px solid black;
+    height: 100%;
+    padding-top: 40px;
+}
+.image-container{
+    border: 5px solid black;
+    height: 25%;
+    position: relative;
+    background-color: lavender ;
+    
+}
+.floating-div{
+    position: absolute;
+    transform: translate(20px,-40px);
+    border: 5px solid black;
+    border-radius: 50% 50%;
+    height: 70px;
+    width: 70px;
+    background-color:  rgb(223, 223, 153);
+}
+
+.profilecard-container{
+    /* border: 3px solid rgb(231, 15, 15); */
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+.function-container{
+    /* border: 3px solid rgb(73, 246, 5); */
+    width: 50%;
+    box-sizing: border-box;
+    padding-top: 70px;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-items: center;
+    align-items: center;
+}
+.box-size-1{
+    display: flex;
+    flex-flow: row;
+}
+
+.statbar{
+    width: 100%;
+    height: 20px;
+    border: 3px solid black;
+    margin-left:15px;
+    margin-right:15px;
+
+}
+
+.staticon{
+    width: 75px;
+    height: 50px;
+    border: 5px solid black;
+    background-color: yellowgreen;
+    border-radius: 50% 50%;
+    margin-left:10px;
+    /* border-radius: 50% 50%; */
+}
+.stat{
+    margin-top: 10px;
+    width: 100%;
+    
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    
+}
+
+.function-area{
+    height: 60px;
+    width: 60%;
+    margin-top: 40px;
+    background-color: aquamarine;
+    border: 3px solid black;
+    transition: 0.5s;
+}
+
+.function-area:hover{
+    height: 40%;
+}

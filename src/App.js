@@ -11,8 +11,8 @@ import {
   Route,
   Link
 } from 'react-router-dom';
-import Home from "./components/Home.js";
-import Discussion from "./components/Discussion.js";
+import Home from "./components/homecomponent/Home.js";
+import Discussion from "./components/discussion/Discussion";
 
 
 
